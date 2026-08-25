@@ -1,7 +1,7 @@
 # HR Job Placement & Job Acceptance Prediction System
 ## 📌 Project Overview
 This project analyzes HR placement data and builds an interactive dashboard to track key hiring KPIs like placement rate, job acceptance rate, interview performance, and high-risk candidate percentage.
-
+The goal of this project is to analyze candidate placement data and build a Job Acceptance Prediction System
 ## ✅ Features
 - Exploratory Data Analysis (EDA)
 - Smart column mapping (prevents column name errors)
